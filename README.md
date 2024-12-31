@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yonas Desta</h1>
 <h3 align="center">Software Engineer | AI & ML Enthusiast | Signal Intelligence Analyst</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
